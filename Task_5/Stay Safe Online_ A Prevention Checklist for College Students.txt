@@ -1,0 +1,23 @@
+﻿Stay Safe Online: A Prevention Checklist for College Students
+Save the following content as prevention-checklist.md in the task-5-cybercrime/ folder.
+1. Verify UPI "Receive" Requests: Always remember that you never need to enter your UPI PIN to receive money. If someone asks you to scan a QR code or enter a PIN to get paid, it is a scam.
+2. Enable SIM Perks & Biometrics: Use a biometric lock (fingerprint/FaceID) for all payment apps like PhonePe, Google Pay, or Paytm to prevent unauthorized access if your phone is snatched.
+3. Audit App Permissions: Regularly check your smartphone settings and revoke "Microphone," "Contacts," or "Gallery" access for apps that don't strictly need them (e.g., a flashlight or calculator app).
+4. Use Two-Factor Authentication (2FA): Enable 2FA on your University portal, Gmail, and Instagram accounts. Use an authenticator app rather than SMS to avoid "SIM swapping" attacks.
+5. Beware of "Job" or "Task" Scams: Be skeptical of Telegram or WhatsApp messages offering high pay for simple tasks like "liking YouTube videos." These are often entry points for money-mule or investment frauds.
+6. Practice Safe Public Wi-Fi: Avoid logging into bank accounts or student portals while using free campus or cafe Wi-Fi. If necessary, use a trusted VPN to encrypt your connection.
+7. Check URL Legitimacy: Before entering credentials on a login page, ensure the URL is correct (e.g., google.com vs g00gle.com) and looks for the "HTTPS" padlock icon.
+8. Secure Your Social Media: Set your profiles to "Private" to prevent strangers from "scraping" your photos and details to create deepfakes or cloned identity profiles.
+________________
+
+
+Emergency Reporting Channels
+If you or someone you know falls victim to a cybercrime:
+* Immediate Financial Fraud: Call the National Helpline 1930 instantly to freeze the transaction.
+* Official Reporting: File a formal complaint at the National Cyber Crime Reporting Portal: [suspicious link removed].
+________________
+
+
+Project Report: Research Reflections
+What surprised me most during this research was the sheer psychological sophistication of UPI "Collect Request" frauds. I previously assumed cybercrime required complex coding or hacking; however, seeing how easily a simple QR code scam can bypass technical security by exploiting human distraction was eye-opening. It is alarming how quickly funds are moved through "mule accounts," making recovery nearly impossible after the first few hours.
+As a result, the one habit I will personally change is my approach to App Permissions. I realized I had granted several "fun" or utility apps access to my contacts and location without a second thought. Moving forward, I will conduct a monthly "privacy audit" on my devices to revoke unnecessary access, ensuring that my personal data isn't being silently harvested or sold to third parties who could use it for targeted phishing.
